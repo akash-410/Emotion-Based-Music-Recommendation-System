@@ -1,2 +1,2 @@
-# Emotion-Based-Music-Recommendation-System
-Implemented a neural network model to analyze text inputs and classify user’s emotion sad,happy etc. – Integrated a API to fetch and recommend songs that align with detected emotion. – Technology Used: Python, TensorFlow, Keras, API.
+# Facial_emotion_base_music_rds
+This project suggest songs base on your facial expression  such as- happy,sad,natural,surprised,rock etc  or you can enter singer and language also for the songs you want to listen 
